@@ -426,11 +426,13 @@ llama3
 
 ### 5. Run Streamlit
 
+Both apps are a bit different. Run either of them.
+
 ``` bash
 streamlit run app.py
 ```
 
-If the second application entry point is required:
+Or
 
 ``` bash
 streamlit run app2.py
